@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Zaptec is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://zaptec.com/
+Zaptec provides smart electric vehicle (EV) charging solutions for homes, businesses, and public spaces. Their platform offers scalable hardware and cloud‑based management, enabling partners and installers to deliver reliable, efficient charging experiences. Zaptec’s products include the Zaptec Go home charger, Zaptec Go 2, and the enterprise‑grade Zaptec Pro, all featuring patented technology for power efficiency and user‑friendly operation. The company also offers an information hub, partner programs, and sustainability initiatives, positioning itself as a leader in the transition to clean mobility.
+
+**Areas:** Company · EVCharging · SmartCharging · Energy · Sustainability · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://zaptec.com/)
+- [Documentation](https://docs.zaptec.com/)
+- [Getting started](https://docs.zaptec.com/docs/getting-started)
+- [API reference](https://docs.zaptec.com/reference/api_chargehistory_get)
+- [Support](https://www.zaptec.com/help)
+- [Changelog](https://docs.zaptec.com/changelog)
+- [Blog](https://www.zaptec.com/press-room)
+- [Terms of service](https://www.zaptec.com/terms-of-use)
+- [Privacy policy](https://www.zaptec.com/policies/privacy-policy)
+
+**APIs profiled:** 7
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/zaptec/](https://apis.io/providers/zaptec/).
